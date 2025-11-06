@@ -1,1 +1,1 @@
-print ("Hola, soy Ale y este es mi primer proyecto Git 💻")
+print ("Hola, soy Ale y este es mi primer proyecto Git ")
